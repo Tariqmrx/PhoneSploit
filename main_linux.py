@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 
-#Coded By Zucccs
+#Coded By TariqMRX/Artin-Taisan
 # Enjoy
 
 
@@ -92,7 +92,7 @@ logo_design_4 = '''
       mMMMMMMMMMMMMMMMMMMm
       `/++MMMMh++hMMMM++/`
           MMMMo  oMMMM
-          MMMMo  oMMMM
+          Tariqo  oArtin
           oNMm-  -mMNs'''
 
 page_1 = '''\n
